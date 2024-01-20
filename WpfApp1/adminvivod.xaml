@@ -1,0 +1,36 @@
+﻿<Window x:Class="WpfApp1.adminvivod"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="adminvivod" Height="400" Width="600">
+    <Grid>
+        <Grid VerticalAlignment="Top" Height="315" HorizontalAlignment="Center" Width="600" Background="Aqua" >
+            <DataGrid x:Name="DgridZavod" SelectionChanged="DgridZavod_SelectionChanged">
+                <DataGrid.Columns>
+                    <DataGridTemplateColumn Width="auto">
+                        <DataGridTemplateColumn.CellTemplate>
+
+                            <DataTemplate>
+                                <Button x:Name="izmenit" Content="Редактировать" Click="izmenit_Click"></Button>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                        
+                        
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+        <Grid VerticalAlignment="Bottom" Height="55" HorizontalAlignment="Center" Width=" 600" Background="Chocolate">
+            <Grid VerticalAlignment="Bottom" Height="55" HorizontalAlignment="Left" Width="300">
+                <Button x:Name ="dobavlenie" Content="Добавление" HorizontalAlignment="Left" Margin="35,17,0,17" VerticalAlignment="Center" Width="82" FontSize="13" FontWeight="Bold" Click="dobavlenie_click_1" />
+                <Button x:Name="udalenie" Content="Удаление" HorizontalAlignment="Center" Margin="115,0,0,0" VerticalAlignment="Center" Width="75" FontSize="13" FontWeight="Bold" Click="udalenie_click_1" />
+            </Grid>
+            <Button x:Name="poisk" Content="Поиск" HorizontalAlignment="Left" Margin="355,0,0,0" VerticalAlignment="Center" Width="75" FontSize="13" FontWeight="Bold" Click="poisk_Click_1" />
+            <Button x:Name ="vernutsya" Content="Вернуться" HorizontalAlignment="Right" Margin="0,0,35,0" VerticalAlignment="Center" Width="75" FontSize="13" FontWeight="Bold" Click="vernutsya_Click_1" />
+
+        </Grid>
+    </Grid>
+</Window>

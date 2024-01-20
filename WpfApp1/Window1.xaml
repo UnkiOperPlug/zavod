@@ -1,0 +1,15 @@
+﻿<Window x:Class="WpfApp1.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Center" Height="199" Margin="269,105,271,115" VerticalAlignment="Center" Width="252" Background="#FF5898CD">
+            <TextBox TextWrapping="Wrap" Text="Вы успешно вошли" Margin="68,88,65,88" FlowDirection="RightToLeft" Foreground="Black" BorderBrush="#FF468AAA" CaretBrush="#FF6182B2" Background="#FF5898CD" SelectionBrush="#FF5898CD"/>
+        </Border>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="359,254,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.804,-0.427"/>
+    </Grid>
+</Window>

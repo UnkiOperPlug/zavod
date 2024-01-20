@@ -1,0 +1,62 @@
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\Window1.baml
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\admindobavlenie.g.cs
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\adminpoisk.g.cs
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\adminudalenie.g.cs
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\adminvivod.g.cs
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\rabotapoisk.g.cs
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\rabotaprosmotr.g.cs
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\admindobavlenie.baml
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\adminpoisk.baml
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\adminudalenie.baml
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\adminvivod.baml
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\rabotapoisk.baml
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\rabotaprosmotr.baml
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\registraciya.g.cs
+C:\Users\иче ты сюда смотришь\source\repos\WpfApp1\WpfApp1\obj\Debug\registraciya.baml
+D:\20 1 2024\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\20 1 2024\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\20 1 2024\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\admindobavlenie.g.cs
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\adminpoisk.g.cs
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\adminudalenie.g.cs
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\adminvivod.g.cs
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\rabotapoisk.g.cs
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\rabotaprosmotr.g.cs
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\registraciya.g.cs
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\Window1.g.cs
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\admindobavlenie.baml
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\adminpoisk.baml
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\adminudalenie.baml
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\adminvivod.baml
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\rabotapoisk.baml
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\rabotaprosmotr.baml
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\registraciya.baml
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\Window1.baml
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\20 1 2024\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
